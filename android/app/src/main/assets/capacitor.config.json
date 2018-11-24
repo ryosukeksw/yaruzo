@@ -1,0 +1,6 @@
+{
+  "appId": "com.sorepa.yaruzo",
+  "appName": "yaruzo",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

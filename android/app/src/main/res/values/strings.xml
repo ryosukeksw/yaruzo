@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">yaruzo</string>
+    <string name="title_activity_main">yaruzo</string>
+    <string name="package_name">com.sorepa.yaruzo</string>
+    <string name="fileprovider_authority">com.sorepa.yaruzo.fileprovider</string>
+    <string name="custom_url_scheme">com.sorepa.yaruzo</string>
+</resources>
